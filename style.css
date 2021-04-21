@@ -1,0 +1,41 @@
+.bn{
+    /* background-color: aqua; */
+    /* margin: 10pt; */
+    border: solid 2pt;
+    height: 20pt;
+    width: 20pt;
+}
+
+.head{
+    display: flex;
+    /* align-content: center; */
+    justify-content: center;
+    color: rgb(181, 235, 34);
+    /* flex-direction: column; */
+}
+
+.b0{
+    margin-bottom: 9pt;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    padding: 7pt;
+    border-radius: 8pt;
+    background-color: rgb(71, 253, 244);
+    color: blueviolet;
+    font-weight:700;
+}
+
+#b1{
+    align-content: center;
+    justify-content: center;
+}
+body{
+    /* margin: 0%;
+    background-image: url(1.jpg) no-repeat center fixed;
+    background-size: cover; */
+    background: url(1.jpg) no-repeat center fixed; 
+    background-size:cover;
+}
